@@ -19,11 +19,5 @@ messages = [
 ]
 response=demo_chatbot(messages)
 print(response)
-#3 Create a Function for ConversationBufferMemory (llm and max token limit)
-#4 Create a Function for Conversation Chain - Input text + Memory
-#5 Chat response using invoke (Prompt template)
-#Links :
-#https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html
-#https://docs.aws.amazon.com/bedrock/latest/userguide/bedrock-runtime_example_bedrock-runtime_Converse_AmazonTitanText_section.html
-#https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-deepseek.html
+
 
